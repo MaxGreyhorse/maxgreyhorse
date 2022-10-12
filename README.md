@@ -1,4 +1,4 @@
-[![Header](https://github.com/MaxGreyhorse/maxgreyhorse/blob/main/assets/logo.png)]
+![Header](https://github.com/MaxGreyhorse/maxgreyhorse/blob/main/assets/logo.png)
 
 ## I'm a QA Engineer. Looking for experience in manual testing and interesting projects!
 ## My CV
