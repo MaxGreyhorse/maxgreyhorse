@@ -5,11 +5,9 @@
 [Link to my CV](https://docs.google.com/document/d/1CIrG3wxDlj8TIThXlEfUKfWJhEOQToBX_23gBeGqJ_0/edit?usp=sharing)
 ### Testing Documentation
 
-- [Checklists]()
-- [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collections]()
+- [Checklists](https://github.com/MaxGreyhorse/Checklists.git)
+- [Bug-Reports](https://github.com/MaxGreyhorse/Bug-Reports.git)
+- [Test-Plans](https://github.com/MaxGreyhorse/Test-Plans.git)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
