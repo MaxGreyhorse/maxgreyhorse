@@ -1,6 +1,19 @@
 ![Header](https://github.com/MaxGreyhorse/maxgreyhorse/blob/main/assets/logo.png)
 
 ## I'm a QA Engineer. Looking for experience in manual testing and interesting projects!
+ 
+ Сurrently I am developing in the following areas:
+
+##### - Test documentation (Test-case, Check-list, Bug Report, Test Suite, etc);
+##### - Functional and non-functional testing (Functionality, UI, Layout, cross-platform testing);
+##### - Performance testing. Working with Apache JMeter Tool;
+##### - API Testing (SOAP, REST). Working with HTTP requests (Basic);
+##### - Database management: MySql
+##### - Bug tracking systems: Jira, Mantis;
+##### - Test management system: TestLink;
+##### - Tools: Android Studio (Device Emulation), Fiddler, Charles Proxy, Postman, Chrome Devtools, Apache Jmetr.
+
+I want to develop load and security testing and test automation skills in the future
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1CIrG3wxDlj8TIThXlEfUKfWJhEOQToBX_23gBeGqJ_0/edit?usp=sharing)
 ### Testing Documentation
