@@ -7,6 +7,7 @@
 
 - [Checklists](https://github.com/MaxGreyhorse/Checklists.git)
 - [Bug-Reports](https://github.com/MaxGreyhorse/Bug-Reports.git)
+- [Test-Cases](https://github.com/MaxGreyhorse/Test-Suites-and-Test-Cases.git)
 - [Test-Plans](https://github.com/MaxGreyhorse/Test-Plans.git)
 
 ### Tools
