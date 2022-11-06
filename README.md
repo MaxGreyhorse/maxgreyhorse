@@ -22,6 +22,7 @@ I want to develop load and security testing and test automation skills in the fu
 - [Bug-Reports](https://github.com/MaxGreyhorse/Bug-Reports.git)
 - [Test-Cases](https://github.com/MaxGreyhorse/Test-Suites-and-Test-Cases.git)
 - [Test-Plans](https://github.com/MaxGreyhorse/Test-Plans.git)
+- [API Testing](https://github.com/MaxGreyhorse/API_Testing.git)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
